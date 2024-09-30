@@ -1,15 +1,15 @@
-# blueberryAI: The Open Source AI-Powered Code Editor
+# CoconutAI: The Open Source AI-Powered Code Editor
 
-Supercharge your development with an editor designed for less coding, using AI. blueberryAI is forked from VSCode and Continue and PearAI, and aims to reduce the time from ideation to conception for your product development by achieving the most seamless integration with AI.
+Supercharge your development with an editor designed for less coding, using AI. blueberryAI is forked from VSCode and Continue and PearAI and BlueberryAI, and aims to reduce the time from ideation to conception for your product development by achieving the most seamless integration with AI.
 
-To download the full app, visit our homepage at https://tryblueberry.ai.
+To download the full app, visit our homepage at https://coconut.ai.
 
 ## Features
-* **Knows your code** - blueberry has context on your codebase so you can ask questions directly (code is stored locally on your computer).
-* **UI/UX focused** - blueberry puts the user experience first, making developing as seamless as possible.
-* **Familiar feel** - blueberry is a fork of VSCode, so you can pick up exactly where you left off.
+* **Knows your code** - coconutAI has context on your codebase so you can ask questions directly (code is stored locally on your computer).
+* **UI/UX focused** - coconutAI puts the user experience first, making developing as seamless as possible.
+* **Familiar feel** - coconutAI is a fork of VSCode, so you can pick up exactly where you left off.
 
-See all features [here](https://tryblueberry.ai/docs).
+See all features [here](https://coconut.ai/docs).
 
 ## Master Doc
 
@@ -25,13 +25,13 @@ We welcome contributions from the community! Whether you're fixing a bug, improv
 **Please review our coding [Contributing Guide](CONTRIBUTING.md) to set up your coding environment.** For any questions, join the [blueberryAI Discord](https://discord.gg/7QMraJUsQt)!
 
 Curious about our stack?
-- blueberryAI is in TypeScript/Electron.js
-- blueberryAI landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn)
-- blueberryAI backend is a Python Flask server with Supabase database
+- coconutAI is in TypeScript/Electron.js
+- coconutAI landing page is Next.js/React with Supabase auth (TailwindCSS + Shadcn)
+- coconutAI backend is a Python Flask server with Supabase database
 - Logging/Telemetry is done with Axiom
 
 ## License
-blueberry OSS is licensed under the Apache 2.0 license. See the LICENSE file for details.
+coconutAI OSS is licensed under the Apache 2.0 license. See the LICENSE file for details.
 
 ## Contact
 For any questions or issues, please open an issue or reach out in the blueberryAI [Discord](https://discord.gg/7QMraJUsQt).
